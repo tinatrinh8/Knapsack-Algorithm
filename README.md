@@ -5,7 +5,7 @@ Test different search algorithms on the classic problem of knapsack.
 Explore and evaluate three distinct search algorithms: Greedy Search, Simulated Annealing, and Genetic Algorithm, applied to the classic Knapsack problem. Utilizing a dataset from Kaggle, this empirical study aims to compare the effectiveness of these algorithms in finding optimal solutions.
 
 ## 🎆 Requirements
-1. **Dataset:** Utilize the knapsack_5_items.csv" from the specified Kaggle dataset.
+1. **Dataset:** Utilize the `knapsack_5_items.csv` from the specified Kaggle dataset.
 2. **Implementations:**
    - Generate and Test: Validate optimal solutions.
    - Greedy Search: Define and implement a greedy strategy.
